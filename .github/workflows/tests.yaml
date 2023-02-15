@@ -8,7 +8,7 @@ jobs:
     with:
       flutter_channel: stable
       flutter_version: 3.7.3
-      runs_on: ubuntu-latest
+      runs_on: macos-latest
 
   integration-test:
     runs-on: macos-latest
